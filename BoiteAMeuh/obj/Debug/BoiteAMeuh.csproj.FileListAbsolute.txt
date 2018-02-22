@@ -1,0 +1,10 @@
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\bin\Debug\BoiteAMeuh.exe.config
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\bin\Debug\BoiteAMeuh.exe
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\bin\Debug\BoiteAMeuh.pdb
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\obj\Debug\BoiteAMeuh.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\obj\Debug\BoiteAMeuh.Form1.resources
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\obj\Debug\BoiteAMeuh.Properties.Resources.resources
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\obj\Debug\BoiteAMeuh.csproj.GenerateResource.Cache
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\obj\Debug\BoiteAMeuh.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\obj\Debug\BoiteAMeuh.exe
+C:\Users\Samuel\source\repos\BoiteAMeuh\BoiteAMeuh\obj\Debug\BoiteAMeuh.pdb
